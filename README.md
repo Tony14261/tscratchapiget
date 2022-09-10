@@ -4,7 +4,7 @@ This project gets the scratch api. Everything in this project code by me (except
 
 #**This can do**
     **User features(v0.2.5)**:
-        /n- Get a user unread-message-count ```message_count('[user]')```     EX: ```user.message_count('TimMcCool')```
+        - Get a user unread-message-count ```message_count('[user]')```     EX: ```user.message_count('TimMcCool')```
         - Get a user id ```user_id('[user]')```     EX: ```user.user_id('griffpatch')```
         - Get if a user is a scratchteam ```user_scratchteam('[user]')```     EX: ```user.user_scratchteam('ScratchCat')``` #Return 'True'
         - Get user join date ```user_join('[user]')```     EX: ```user.user_join('Will_Wam')```#Return '2013-11-25T19:52:29.000Z'
