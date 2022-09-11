@@ -1,4 +1,4 @@
-# tscratchapiget | THIS IS NOT PUBLISH ON PyPI
+# tscratchapiget | THIS IS PUBLISH ON PyPI
 A library can get scratch's api
 This project gets the scratch api. Everything in this project code by me (except some needed library). Big credit to TimMcCool(Scratcher) for example codes.
 
