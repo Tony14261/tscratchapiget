@@ -5,7 +5,7 @@ This project gets the scratch api. Everything in this project code by me (except
 Install: `pip install tscratchapiget`
 
 #**This can do**<br>
-    **User features(v0.2.5)**:<br>
+    **User features(v0.2.5 to v0.2.7)**:<br>
         - Get a user unread-message-count ```message_count('[user]')```     EX: ```user.message_count('TimMcCool')```<br>
         - Get a user id ```user_id('[user]')```     EX: ```user.user_id('griffpatch')```<br>
         - Get if a user is a scratchteam ```user_scratchteam('[user]')```     EX: ```user.user_scratchteam('ScratchCat')``` #Return 'True'<br>
