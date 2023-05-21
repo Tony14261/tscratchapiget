@@ -1,6 +1,8 @@
 # tscratchapiget | THIS IS PUBLISH ON PyPI 
+https://pypi.org/project/tscratchapiget/ <br>
 A library can get scratch's api<br>
-This project gets the scratch api. Everything in this project code by me (except some needed library). Big credit to TimMcCool(Scratcher) for example codes.
+This project gets the scratch api. Everything in this project code by me (except some needed library). Big credit to TimMcCool(Scratcher) for example codes. <br>
+Install: `pip install tscratchapiget`
 
 #**This can do**<br>
     **User features(v0.2.5)**:<br>
