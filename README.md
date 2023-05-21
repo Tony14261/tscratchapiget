@@ -3,7 +3,7 @@ A library can get scratch's api
 This project gets the scratch api. Everything in this project code by me (except some needed library). Big credit to TimMcCool(Scratcher) for example codes.
 
 #**This can do**
-    **User features(v0.2.5)**:\n
+    **User features(v0.2.5)**:
         - Get a user unread-message-count ```message_count('[user]')```     EX: ```user.message_count('TimMcCool')```
         - Get a user id ```user_id('[user]')```     EX: ```user.user_id('griffpatch')```
         - Get if a user is a scratchteam ```user_scratchteam('[user]')```     EX: ```user.user_scratchteam('ScratchCat')``` #Return 'True'
