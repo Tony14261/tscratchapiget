@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tscratchapiget"
+version = "0.3.5"
+authors = [
+  { name="Tony", email="tonyvu4913@gmail.com" },
+]
+description = "A library can get scratch api"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Tony14261/tscratchapiget"
+"Bug Tracker" = "https://github.com/Tony14261/tscratchapiget/issues"
