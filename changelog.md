@@ -1,3 +1,5 @@
+Earlier changelog is not recorded.
+
 5-21-2023<br>
   * Delete v2.5 and v2.6 <br>
   
@@ -13,3 +15,14 @@
   * README.md : Edit file<br>
   * project.py : Add functions
   * user.py : Edit codes
+
+7-9-2023<br>
+  * project.py : Edit codes when 'except Exception'
+  * project.py : Fix 'Project exists' bug
+  * user.py : Edit functions
+  * Create file 'studio.py'
+  * studio.py : Add functions
+  * Publish v0.4.0
+  * Fix Bugs
+  * README.md : Edit file
+  * studio.py : Add more functions
