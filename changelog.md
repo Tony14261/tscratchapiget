@@ -1,4 +1,4 @@
-Earlier changelog is not recorded.
+Earlier changes are not recorded.
 
 5-21-2023<br>
   * Delete v2.5 and v2.6 <br>
