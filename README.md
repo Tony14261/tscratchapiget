@@ -1,4 +1,4 @@
-## I'm tooking a break from this project. Warning: There's a lot of huge bugs in this module. Consider using other libraries (scratchattach, scratchcloud, scratchclient)
+## EOL (end of life). Warning: There's a lot of huge bugs in this module. Consider using other libraries (scratchattach, scratchcloud, scratchclient)
 
 This project gets the scratch api. Everything in this project code by me (except some needed library). Big credit to TimMcCool(Scratcher) for example codes. (This project is not related to TimMcCool)<br>
 Install: `pip install tscratchapiget`<br>
