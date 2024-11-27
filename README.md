@@ -4,7 +4,6 @@ This project gets the scratch api. Everything in this project code by me (except
 Install: `pip install tscratchapiget`<br>
 Change log: https://github.com/Tony14261/tscratchapiget/blob/main/changelog.md<br>
 Report bugs or request new features here: https://github.com/Tony14261/tscratchapiget/issues<br>
-Contact me (Discord): Tony14261#2089<br>
 <br>
 Note: The basics are done. I think I have to use https://scratchdb.lefty.one/v3/ (ScratchDB by Lefty One). I fixed many bugs in this version. There are some new beta features. If anything goes wrong, contact me or report bugs on github page.<br>
 Remember to import everything in tscratchapiget: ```from tscratchapiget import user, project, studio```<br>
